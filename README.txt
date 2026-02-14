@@ -5,7 +5,7 @@ INSTALL:
 npm install
 
 RUN:
-node server.js
+bossbbytoursandtravel@gmail.com + bossbby88!!
 
 OPEN:
 http://localhost:3000
